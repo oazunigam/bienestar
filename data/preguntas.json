@@ -1,0 +1,146 @@
+{
+    "NIVEL DE SATISFACCI\u00d3N CON LA VIDA": [
+        "Media",
+        "Baja",
+        "Alta"
+    ],
+    "NIVEL DE RESILIENCIA": [
+        "alta",
+        "media",
+        "baja"
+    ],
+    "NIVEL DE CALIDAD DEL SUE\u00d1O": [
+        "Inadecuado",
+        "Adecuado",
+        "Regular"
+    ],
+    "NIVEL DE ESTR\u00c9S": [
+        "severo / extremadamente severo",
+        "normal",
+        "leve / moderado"
+    ],
+    "NIVEL DE ANSIEDAD": [
+        "severo / extremadamente severo",
+        "normal",
+        "leve / moderado"
+    ],
+    "NIVEL DE SATISFACCI\u00d3N LABORAL": [
+        "Ni insatisfecho(a) ni satisfecho(a)",
+        "Insatisfecho(a)",
+        "Satisfecho(a)"
+    ],
+    "NIVEL DE TECNOESTR\u00c9S": [
+        "Alto",
+        "Medio",
+        "Bajo"
+    ],
+    "FUNCIONAMIENTO FAMILIAR": [
+        "Baja satisfacci\u00f3n",
+        "Alta satisfacci\u00f3n",
+        "Moderada satisfacci\u00f3n"
+    ],
+    "NIVEL DE DEPRESI\u00d3N": [
+        "severo / extremadamente severo",
+        "normal",
+        "leve / moderado"
+    ],
+    "NIVEL DE ACTIVIDAD F\u00cdSICA": [
+        "Ninguna",
+        "Alta",
+        "Moderada",
+        "Baja"
+    ],
+    "21 En los \u00faltimos 30 d\u00edas por falta de dinero u otros recursos \u00bfalguna vez te preocupaste porque los alimentos se acabaron en tu hogar?": [
+        "S\u00ed",
+        "No"
+    ],
+    "Respecto a la seguridad en tu barrio o sector consideras que es": [
+        "Muy inseguro",
+        "Inseguro",
+        "Muy seguro",
+        "Seguro"
+    ],
+    "NIVEL DE SOLEDAD": [
+        "severo",
+        "normal",
+        "moderado"
+    ],
+    "NIVEL DE DEMANDAS EMOCIONALES": [
+        "Alta",
+        "Baja"
+    ],
+    "NIVEL DE RECURSOS PSICOL\u00d3GICOS": [
+        "Bajo",
+        "Alto",
+        "Medio"
+    ],
+    "Estado civil": [
+        "Soltero(a)",
+        "Casado(a)",
+        "Viudo(a)",
+        "En uni\u00f3n libre",
+        "Separado(a) o divorciado(a)"
+    ],
+    "Percepci\u00f3n de salud dicot\u00f3mica": [
+        "Mala a regular",
+        "Buena a excelente"
+    ],
+    "TIEMPO SEDENTARIO MAYOR A 6 HORAS": [
+        "Baja",
+        "Ninguna",
+        "Alta",
+        "Moderada"
+    ],
+    "INDICADORES DE IDEACION SUICIDA": [
+        "Con alg\u00fan indicador",
+        "Sin indicadores"
+    ],
+    "Nivel educativo": [
+        "Pregrado",
+        "Posgrado",
+        "Bachillerato completo",
+        "T\u00e9cnico/Tecn\u00f3logo",
+        "Bachillerato incompleto"
+    ],
+    "22 En los \u00faltimos 30 d\u00edas por falta de dinero u otros recursos \u00bft\u00fa o alguien de tu hogar dejaron de tener una alimentaci\u00f3n suficiente nutritiva y adecuada?": [
+        "S\u00ed",
+        "No"
+    ],
+    "NIVEL DE INFLUENCIA DEL TRABAJO SOBRE EL ENTORNO EXTRALABORAL": [
+        "Alta",
+        "Baja"
+    ],
+    "APOYO SOCIAL": [
+        "Moderado",
+        "Alto",
+        "Bajo"
+    ],
+    "\u00bfCu\u00e1nto es el ingreso econ\u00f3mico en tu hogar?": [
+        "Entre $1.000.000 y $1.999.999",
+        "No s\u00e9",
+        "Entre $5.000.000 y $5.999.999",
+        "M\u00e1s de $6.000.000",
+        "Menos de $1.000.000",
+        "Entre $2.000.000 y $2.999.999",
+        "Entre $3.000.000 y $3.999.999",
+        "Entre $4.000.000 y $4.999.999"
+    ],
+    "NIVEL DE DEMANDAS DE LA JORNADA LABORAL": [
+        "Alta",
+        "Baja"
+    ],
+    "\u00bfTienes alguna condici\u00f3n psiqui\u00e1trica diagnosticada por un(a) profesional de salud?": [
+        "S\u00ed",
+        "No"
+    ],
+    "Respecto a la violencia en tu barrio o sector consideras que es": [
+        "Violento",
+        "Muy violento",
+        "Nada violento",
+        "Algo violento"
+    ],
+    "\u00bfPresentas alguna discapacidad o limitaci\u00f3n que afecte tus actividades diarias en algunas de estas \u00e1reas?": [
+        "Alguna discapacidad",
+        "Ninguna discapacidad"
+    ]
+}
